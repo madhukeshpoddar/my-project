@@ -23,7 +23,7 @@ countdownfor(20,10);
 
 //----------- function another program
 
-var age = 24;
+vear age = 24;
 function localfunction()
 {
 	var age = 0;

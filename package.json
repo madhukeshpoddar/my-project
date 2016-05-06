@@ -1,19 +1,23 @@
 {
-  "name": "cd",
+  "name": "kljd",
   "version": "1.0.0",
   "main": "abc.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/madhukeshpoddar/my-project.git"
   },
-  "author": "",
+  "author": "madhukesh",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/madhukeshpoddar/my-project/issues"
   },
   "homepage": "https://github.com/madhukeshpoddar/my-project#readme",
-  "description": ""
+  "description": "paasword manager",
+  "dependencies": {
+    "node-persist": "0.0.6"
+  }
 }
